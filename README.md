@@ -16,7 +16,7 @@ Descripción del Proyecto
 
     Generación de Letras por IA: Utilizamos inteligencia artificial para generar letras de canciones de manera automática, ofreciendo inspiración a los usuarios creativos.
 
-    Musiquita GO: Una función única que te permite ver a otras personas que están escuchando la misma canción que tú en una distancia cercana.
+    Nexus GO: Una función única que te permite ver a otras personas que están escuchando la misma canción que tú en una distancia cercana.
 
     Grupos Privados: Los usuarios pueden crear grupos privados y compartir canciones exclusivas entre ellos.
 
