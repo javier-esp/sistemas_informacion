@@ -1,5 +1,5 @@
 # Digital nexus
-Repositorio de Música - Proyecto "Digital nexus"
+Repositorio de Música - Proyecto "Digital nexus":
 
 ¡Bienvenido al repositorio del proyecto "Digital nexus"! Aquí encontrarás todo lo relacionado con nuestra plataforma de música innovadora que combina funciones sociales, creación de música, y tecnología de inteligencia artificial para ofrecer una experiencia única a los amantes de la música.
 Descripción del Proyecto
