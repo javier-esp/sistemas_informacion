@@ -27,3 +27,5 @@ Descripción del Proyecto
     Contacto con Representantes de Cantantes: Establecemos contacto con los representantes de los cantantes para evitar problemas de derechos de autor y asegurar una relación legal y ética.
 
     Marketing y Control de Calidad: Implementamos estrategias de marketing para promocionar la plataforma y garantizamos altos estándares de calidad en todos nuestros servicios.
+
+Prueba de integración con Slack.
